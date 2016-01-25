@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final Year Project</string>
+
+    <string name="start_command">Cycling App</string>
+
+    <string name="msg_tap_to_menu">Please tap to launch "Cylcing App"</string>
+    <string name="msg_about">Activity for about</string>
+    <string name="msg_url">www.androidhive.info</string>
+    <string name="msg_record">Activity for record</string>
+
+    <string name="action_about">About</string>
+    <string name="action_record">Record</string>
+    <string name="action_quit">Quit</string>
+    <!--
+    <string name="title_activity_main">Cycling App</string>
+    <string name="hello_world">Final Year Project Cycle App</string>
+
+    <string name="start_command">Cycling App</string>
+    -->
+
+</resources>
